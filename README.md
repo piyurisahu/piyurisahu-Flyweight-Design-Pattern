@@ -3,7 +3,7 @@ Definition:- Flyweignt Design patter is a type of structural design pattern whic
 
 
 
-
+![alt text](https://github.com/piyurisahu/piyurisahu-Flyweight-Design-Pattern/blob/master/class-diagram.PNG)
 
 
 * Intrinsic Attribute
